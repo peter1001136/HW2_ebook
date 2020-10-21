@@ -11,7 +11,7 @@ import SwiftUI
 struct HW2_ebookApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AppView()
         }
     }
 }

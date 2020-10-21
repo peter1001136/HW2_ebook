@@ -7,6 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A762D72E253A9639004A4952 /* AppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A762D72D253A9639004A4952 /* AppView.swift */; };
+		A762D740253AAA78004A4952 /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A762D73F253AAA78004A4952 /* IntroView.swift */; };
+		A762D745253B4767004A4952 /* struct.swift in Sources */ = {isa = PBXBuildFile; fileRef = A762D744253B4766004A4952 /* struct.swift */; };
+		A772C6C2253D9ECB005F871B /* SongsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A772C6C1253D9ECB005F871B /* SongsView.swift */; };
+		A772C6C7253D9F71005F871B /* SongsRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A772C6C6253D9F71005F871B /* SongsRowView.swift */; };
+		A772C6CC253DA561005F871B /* SongsDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A772C6CB253DA561005F871B /* SongsDetailView.swift */; };
+		A772C6D9253EBB44005F871B /* zhou-jie-lun-jay-chou-te-bie-yan-chu-pai-wei-jun-gao-bai-qi-qiu-love-confession-official-mv.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A772C6D8253EBB44005F871B /* zhou-jie-lun-jay-chou-te-bie-yan-chu-pai-wei-jun-gao-bai-qi-qiu-love-confession-official-mv.mp3 */; };
+		A772C6DE253EC687005F871B /* zhou-jie-lun-jay-chou-with-yang-rui-dai-deng-ni-xia-ke-waiting-for-you-ge-ci-ban-mv.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A772C6DD253EC687005F871B /* zhou-jie-lun-jay-chou-with-yang-rui-dai-deng-ni-xia-ke-waiting-for-you-ge-ci-ban-mv.mp3 */; };
+		A772C6E3253EC6FF005F871B /* zhou-jie-lun-jay-chou-bu-ai-wo-jiu-la-dao-if-you-dont-love-me-its-fine-official-mv-fa-shao-ying-pian-hua-yu-di-qu-chan-lian-di-mei-guo-zhi-chong-qian-er.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A772C6E2253EC6FF005F871B /* zhou-jie-lun-jay-chou-bu-ai-wo-jiu-la-dao-if-you-dont-love-me-its-fine-official-mv-fa-shao-ying-pian-hua-yu-di-qu-chan-lian-di-mei-guo-zhi-chong-qian-er.mp3 */; };
+		A772C6EB253EEEDA005F871B /* zhou-jie-lun-jay-chou-shuo-hao-bu-ku-wont-cry-with-wu-yue-tian-a-xin-mayday-ashin-official-mv.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A772C6EA253EEED9005F871B /* zhou-jie-lun-jay-chou-shuo-hao-bu-ku-wont-cry-with-wu-yue-tian-a-xin-mayday-ashin-official-mv.mp3 */; };
+		A772C6F0253EEF35005F871B /* zhou-jie-lun-jay-chou-x-amei-bu-gai-shouldnt-be-official-mv.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A772C6EF253EEF35005F871B /* zhou-jie-lun-jay-chou-x-amei-bu-gai-shouldnt-be-official-mv.mp3 */; };
+		A772C6FA253EF5C4005F871B /* li-xiang-official-music-video.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A772C6F9253EF5C4005F871B /* li-xiang-official-music-video.mp3 */; };
+		A772C6FF253EF5F1005F871B /* official-music-video.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A772C6FE253EF5F1005F871B /* official-music-video.mp3 */; };
+		A772C704253EF5FA005F871B /* zhou-jie-lun-jay-chou-an-jing-silence-official-mv.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A772C703253EF5FA005F871B /* zhou-jie-lun-jay-chou-an-jing-silence-official-mv.mp3 */; };
+		A772C70C253EFB50005F871B /* zhou-jie-lun-dao-xiang-ge-ci.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A772C70B253EFB50005F871B /* zhou-jie-lun-dao-xiang-ge-ci.mp3 */; };
+		A772C711253EFF82005F871B /* official-music-video-2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A772C710253EFF82005F871B /* official-music-video-2.mp3 */; };
+		A7C037CF253C5A1800E0996E /* PhotoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7C037CE253C5A1800E0996E /* PhotoView.swift */; };
 		A7E40D49252D99B800F42BAD /* HW2_ebookApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7E40D48252D99B800F42BAD /* HW2_ebookApp.swift */; };
 		A7E40D4B252D99B800F42BAD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7E40D4A252D99B800F42BAD /* ContentView.swift */; };
 		A7E40D4D252D99BB00F42BAD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7E40D4C252D99BB00F42BAD /* Assets.xcassets */; };
@@ -33,6 +50,23 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A762D72D253A9639004A4952 /* AppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppView.swift; sourceTree = "<group>"; };
+		A762D73F253AAA78004A4952 /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
+		A762D744253B4766004A4952 /* struct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = struct.swift; sourceTree = "<group>"; };
+		A772C6C1253D9ECB005F871B /* SongsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongsView.swift; sourceTree = "<group>"; };
+		A772C6C6253D9F71005F871B /* SongsRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongsRowView.swift; sourceTree = "<group>"; };
+		A772C6CB253DA561005F871B /* SongsDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongsDetailView.swift; sourceTree = "<group>"; };
+		A772C6D8253EBB44005F871B /* zhou-jie-lun-jay-chou-te-bie-yan-chu-pai-wei-jun-gao-bai-qi-qiu-love-confession-official-mv.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "zhou-jie-lun-jay-chou-te-bie-yan-chu-pai-wei-jun-gao-bai-qi-qiu-love-confession-official-mv.mp3"; sourceTree = "<group>"; };
+		A772C6DD253EC687005F871B /* zhou-jie-lun-jay-chou-with-yang-rui-dai-deng-ni-xia-ke-waiting-for-you-ge-ci-ban-mv.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "zhou-jie-lun-jay-chou-with-yang-rui-dai-deng-ni-xia-ke-waiting-for-you-ge-ci-ban-mv.mp3"; sourceTree = "<group>"; };
+		A772C6E2253EC6FF005F871B /* zhou-jie-lun-jay-chou-bu-ai-wo-jiu-la-dao-if-you-dont-love-me-its-fine-official-mv-fa-shao-ying-pian-hua-yu-di-qu-chan-lian-di-mei-guo-zhi-chong-qian-er.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "zhou-jie-lun-jay-chou-bu-ai-wo-jiu-la-dao-if-you-dont-love-me-its-fine-official-mv-fa-shao-ying-pian-hua-yu-di-qu-chan-lian-di-mei-guo-zhi-chong-qian-er.mp3"; sourceTree = "<group>"; };
+		A772C6EA253EEED9005F871B /* zhou-jie-lun-jay-chou-shuo-hao-bu-ku-wont-cry-with-wu-yue-tian-a-xin-mayday-ashin-official-mv.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "zhou-jie-lun-jay-chou-shuo-hao-bu-ku-wont-cry-with-wu-yue-tian-a-xin-mayday-ashin-official-mv.mp3"; sourceTree = "<group>"; };
+		A772C6EF253EEF35005F871B /* zhou-jie-lun-jay-chou-x-amei-bu-gai-shouldnt-be-official-mv.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "zhou-jie-lun-jay-chou-x-amei-bu-gai-shouldnt-be-official-mv.mp3"; sourceTree = "<group>"; };
+		A772C6F9253EF5C4005F871B /* li-xiang-official-music-video.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "li-xiang-official-music-video.mp3"; sourceTree = "<group>"; };
+		A772C6FE253EF5F1005F871B /* official-music-video.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "official-music-video.mp3"; path = "../../../Downloads/Downloads/official-music-video.mp3"; sourceTree = "<group>"; };
+		A772C703253EF5FA005F871B /* zhou-jie-lun-jay-chou-an-jing-silence-official-mv.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "zhou-jie-lun-jay-chou-an-jing-silence-official-mv.mp3"; sourceTree = "<group>"; };
+		A772C70B253EFB50005F871B /* zhou-jie-lun-dao-xiang-ge-ci.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "zhou-jie-lun-dao-xiang-ge-ci.mp3"; sourceTree = "<group>"; };
+		A772C710253EFF82005F871B /* official-music-video-2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "official-music-video-2.mp3"; sourceTree = "<group>"; };
+		A7C037CE253C5A1800E0996E /* PhotoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoView.swift; sourceTree = "<group>"; };
 		A7E40D45252D99B800F42BAD /* HW2_ebook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HW2_ebook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7E40D48252D99B800F42BAD /* HW2_ebookApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HW2_ebookApp.swift; sourceTree = "<group>"; };
 		A7E40D4A252D99B800F42BAD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -97,6 +131,23 @@
 			children = (
 				A7E40D48252D99B800F42BAD /* HW2_ebookApp.swift */,
 				A7E40D4A252D99B800F42BAD /* ContentView.swift */,
+				A762D72D253A9639004A4952 /* AppView.swift */,
+				A772C6C1253D9ECB005F871B /* SongsView.swift */,
+				A772C6CB253DA561005F871B /* SongsDetailView.swift */,
+				A772C6C6253D9F71005F871B /* SongsRowView.swift */,
+				A7C037CE253C5A1800E0996E /* PhotoView.swift */,
+				A762D744253B4766004A4952 /* struct.swift */,
+				A762D73F253AAA78004A4952 /* IntroView.swift */,
+				A772C6F9253EF5C4005F871B /* li-xiang-official-music-video.mp3 */,
+				A772C6FE253EF5F1005F871B /* official-music-video.mp3 */,
+				A772C703253EF5FA005F871B /* zhou-jie-lun-jay-chou-an-jing-silence-official-mv.mp3 */,
+				A772C710253EFF82005F871B /* official-music-video-2.mp3 */,
+				A772C6D8253EBB44005F871B /* zhou-jie-lun-jay-chou-te-bie-yan-chu-pai-wei-jun-gao-bai-qi-qiu-love-confession-official-mv.mp3 */,
+				A772C6EA253EEED9005F871B /* zhou-jie-lun-jay-chou-shuo-hao-bu-ku-wont-cry-with-wu-yue-tian-a-xin-mayday-ashin-official-mv.mp3 */,
+				A772C70B253EFB50005F871B /* zhou-jie-lun-dao-xiang-ge-ci.mp3 */,
+				A772C6E2253EC6FF005F871B /* zhou-jie-lun-jay-chou-bu-ai-wo-jiu-la-dao-if-you-dont-love-me-its-fine-official-mv-fa-shao-ying-pian-hua-yu-di-qu-chan-lian-di-mei-guo-zhi-chong-qian-er.mp3 */,
+				A772C6EF253EEF35005F871B /* zhou-jie-lun-jay-chou-x-amei-bu-gai-shouldnt-be-official-mv.mp3 */,
+				A772C6DD253EC687005F871B /* zhou-jie-lun-jay-chou-with-yang-rui-dai-deng-ni-xia-ke-waiting-for-you-ge-ci-ban-mv.mp3 */,
 				A7E40D4C252D99BB00F42BAD /* Assets.xcassets */,
 				A7E40D51252D99BB00F42BAD /* Info.plist */,
 				A7E40D4E252D99BB00F42BAD /* Preview Content */,
@@ -233,8 +284,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A772C6D9253EBB44005F871B /* zhou-jie-lun-jay-chou-te-bie-yan-chu-pai-wei-jun-gao-bai-qi-qiu-love-confession-official-mv.mp3 in Resources */,
 				A7E40D50252D99BB00F42BAD /* Preview Assets.xcassets in Resources */,
+				A772C711253EFF82005F871B /* official-music-video-2.mp3 in Resources */,
+				A772C6FA253EF5C4005F871B /* li-xiang-official-music-video.mp3 in Resources */,
+				A772C6E3253EC6FF005F871B /* zhou-jie-lun-jay-chou-bu-ai-wo-jiu-la-dao-if-you-dont-love-me-its-fine-official-mv-fa-shao-ying-pian-hua-yu-di-qu-chan-lian-di-mei-guo-zhi-chong-qian-er.mp3 in Resources */,
+				A772C70C253EFB50005F871B /* zhou-jie-lun-dao-xiang-ge-ci.mp3 in Resources */,
+				A772C6F0253EEF35005F871B /* zhou-jie-lun-jay-chou-x-amei-bu-gai-shouldnt-be-official-mv.mp3 in Resources */,
+				A772C6FF253EF5F1005F871B /* official-music-video.mp3 in Resources */,
 				A7E40D4D252D99BB00F42BAD /* Assets.xcassets in Resources */,
+				A772C6DE253EC687005F871B /* zhou-jie-lun-jay-chou-with-yang-rui-dai-deng-ni-xia-ke-waiting-for-you-ge-ci-ban-mv.mp3 in Resources */,
+				A772C704253EF5FA005F871B /* zhou-jie-lun-jay-chou-an-jing-silence-official-mv.mp3 in Resources */,
+				A772C6EB253EEEDA005F871B /* zhou-jie-lun-jay-chou-shuo-hao-bu-ku-wont-cry-with-wu-yue-tian-a-xin-mayday-ashin-official-mv.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,8 +320,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A762D745253B4767004A4952 /* struct.swift in Sources */,
 				A7E40D4B252D99B800F42BAD /* ContentView.swift in Sources */,
+				A7C037CF253C5A1800E0996E /* PhotoView.swift in Sources */,
 				A7E40D49252D99B800F42BAD /* HW2_ebookApp.swift in Sources */,
+				A762D740253AAA78004A4952 /* IntroView.swift in Sources */,
+				A772C6CC253DA561005F871B /* SongsDetailView.swift in Sources */,
+				A772C6C7253D9F71005F871B /* SongsRowView.swift in Sources */,
+				A762D72E253A9639004A4952 /* AppView.swift in Sources */,
+				A772C6C2253D9ECB005F871B /* SongsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
